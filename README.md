@@ -1,5 +1,5 @@
 # 🌱 About Me:
-Ancienne chimiste et actuellement étudiante en informatique<br>Intéressée par les métiers de la données : construction de pipeline, analyse et modèles de machine learning<br><br>
+Ancienne chimiste et actuellement étudiante en informatique.<br>Intéressée par les métiers de la données : construction de pipeline, analyse et modèles de machine learning.<br><br>
 
 
 # 💻 Tech Stack:
